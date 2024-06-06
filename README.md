@@ -9,7 +9,7 @@
  ChatGPT - Prompts usados
 
  # MESTRE DOS CÓDIGOS: O CAMINHO DA FORÇA TECH
- [alt text](capaPodcast-1.jpg)
+ ![alt text](capaPodcast-1.jpg)
 
  ## SEÇÕES
 
